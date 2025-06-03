@@ -1,6 +1,7 @@
 # PHISH
 A Comprehensive AI-Powered Phishing Detection and Prevention Platform
 PISH is a Python-driven application that integrates with a Gmail account to fetch emails and determine whether they are phishing or legitimate using a pre-trained machine learning algorithm.  
+![WhatsApp Image 2025-06-03 at 17 59 09_ae79b47c](https://github.com/user-attachments/assets/814552e8-c1ef-4c17-a5a6-1498953786bb)
 
 
 - Phishing Detection: Utilizes advanced machine learning algorithms to assess emails for phishing content with high accuracy.  
